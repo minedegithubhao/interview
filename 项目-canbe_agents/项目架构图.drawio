@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="第 1 页" id="8WGHpqBv2JO60jQU0URx">
+    <mxGraphModel dx="956" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jvATRC59OrOn2kxczA9M-4" edge="1" parent="1" source="Ux_0r1_ZeNr9QoznPv9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvATRC59OrOn2kxczA9M-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-5" edge="1" parent="1" source="Ux_0r1_ZeNr9QoznPv9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvATRC59OrOn2kxczA9M-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-7" edge="1" parent="1" source="Ux_0r1_ZeNr9QoznPv9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvATRC59OrOn2kxczA9M-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-11" edge="1" parent="1" source="Ux_0r1_ZeNr9QoznPv9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jvATRC59OrOn2kxczA9M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-12" edge="1" parent="1" source="Ux_0r1_ZeNr9QoznPv9r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jvATRC59OrOn2kxczA9M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ux_0r1_ZeNr9QoznPv9r-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="jd_help_faq.md&lt;div&gt;&lt;br&gt;&lt;div&gt;源文件&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cleaned.md&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;清洗质量人工验收&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="119" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-14" edge="1" parent="1" source="jvATRC59OrOn2kxczA9M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvATRC59OrOn2kxczA9M-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cleaned.jsonl&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;导入 MongoDB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="269" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-16" edge="1" parent="1" source="jvATRC59OrOn2kxczA9M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvATRC59OrOn2kxczA9M-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="chunks.jsonl&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;导入 MongoDB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="429" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="quality_report.json&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;清洗报告&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="589" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="Milvus  canbe_faq_rag_faq_items" vertex="1">
+          <mxGeometry height="60" width="60" x="299" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="jvATRC59OrOn2kxczA9M-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="459" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
